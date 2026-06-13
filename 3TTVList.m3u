@@ -68,16 +68,6 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_640_360.png" group-title="HTV",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png",Vĩnh Long 1
-https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong2.png",Vĩnh Long 2
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong3.png",Vĩnh Long 3
-https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong4.png",Vĩnh Long 4
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png",Vĩnh Long 5
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png",Cần Thơ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png",Cần Thơ 2
@@ -164,6 +154,18 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/qPZeGPa.png",Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+
+#-----------------------Kênh Vĩnh Long-------------------------------#
+#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png",Vĩnh Long 1
+https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong2.png",Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong3.png",Vĩnh Long 3
+https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong4.png",Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vĩnh Long"tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png",Vĩnh Long 5
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 
 #-----------------------Kênh SCTV-------------------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1 HD
